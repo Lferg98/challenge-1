@@ -12,7 +12,7 @@ This project requires no modules outside of the provided files.
 ## Installation:
 
 This project requires no installation, and is currently running at the following URL:
-    -  https://garrettchaney.github.io/module-one-challenge/
+    -  https://github.com/Lferg98/challenge-1
     
 ## Mockup of Website:
 
