@@ -16,4 +16,5 @@ This project requires no installation, and is currently running at the following
     
 ## Mockup of Website:
 
-![Mockup website!](./images/mock-up.png)
+![mock-up](https://user-images.githubusercontent.com/114797368/203717701-3b1e8d7c-55b8-430d-9fdd-ef456546d12b.png)
+
