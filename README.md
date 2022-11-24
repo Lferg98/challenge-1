@@ -12,7 +12,7 @@ This project requires no modules outside of the provided files.
 ## Installation:
 
 This project requires no installation, and is currently running at the following URL:
-    -  https://github.com/Lferg98/challenge-1
+    -  https://lferg98.github.io/challenge-1/
     
 ## Mockup of Website:
 
